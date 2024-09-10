@@ -1,0 +1,11 @@
+.carousel-control-prev,
+.carousel-control-next,
+.carousel-indicators {
+  display: none !important;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
